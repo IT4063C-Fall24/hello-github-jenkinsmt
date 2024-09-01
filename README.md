@@ -24,20 +24,22 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to accept assignments in GitHub Classroom, create a clone of the repository on my local device, and then update the repository. I then created a new file in the repository and made changes to it, leading me to stage the file, commit my changes, and finally push the commit. 
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled with the 'push', as I had to create a PAT (personal access token)for my GitHub account due to the password authentication giving me issues.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Nothing, I feel confident I completed this lab correctly.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+
+- I used the following link to figure out how to finalize the push, as the password section was giving me issues on my device. 
+https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- The link above was the only help I used.
